@@ -1,7 +1,7 @@
-import Login from "./pages/Login";
+import AboutUs from "./pages/AboutUs";
 
 const App = () => {
-  return <Login />;
+  return <AboutUs />;
 };
 
 export default App;
